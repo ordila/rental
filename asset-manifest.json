@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rental/static/css/main.e6c13ad2.css",
+    "main.js": "/rental/static/js/main.33dda97d.js",
+    "index.html": "/rental/index.html",
+    "main.e6c13ad2.css.map": "/rental/static/css/main.e6c13ad2.css.map",
+    "main.33dda97d.js.map": "/rental/static/js/main.33dda97d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.33dda97d.js"
+  ]
+}
